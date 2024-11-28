@@ -1,0 +1,15 @@
+artifact_uri: file:///home/paduruvignatejreddy/MainFolder/practice/mlruns/0/8bedca076f0a48fa9270a000dc00028c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bedca076f0a48fa9270a000dc00028c
+run_name: lyrical-crow-469
+run_uuid: 8bedca076f0a48fa9270a000dc00028c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732784674470
+status: 1
+tags: []
+user_id: paduruvignatejreddy
